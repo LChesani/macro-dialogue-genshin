@@ -1,5 +1,5 @@
 # macro-dialogue-genshin
-auto-click in python that automates dialogs in genshin impact
+auto-click in python that automates dialogs in Genshin Impact
 
 
 1 - install Python
